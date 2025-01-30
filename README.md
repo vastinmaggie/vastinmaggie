@@ -8,9 +8,9 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Website Development (E-Commerce Website,Html5,Css3,Saas,Bootstrap5,React,Javascript,Python,React)</b>
   - (https://nest-frontend-v6.netlify.app/) <b><i>(E-Commerce)</b></i>
+- <b>Database Management (SQL,MongoDB,MySQL,PostgreSQL)</b>
 <h2>🔭 Data Analysis Projects:</h2>
-- <b>Data Analyst (Spss,Stata,Excel,R,Python,Matlab,Tableau,PowerBI,Pspp)</b>
-  - ([https://nest-frontend-v6.netlify.app/](https://public.tableau.com/app/profile/vastine.mwei/viz/Businessperfomance/Dashboard3?publish=yes)) <b><i>(Data Analysis)</b></i>
+- <b>Data Analyst (Spss,Stata,Sql,Excel,R,Python,Matlab,Tableau,PowerBI,Pspp)</b>- ([https://nest-frontend-v6.netlify.app/](https://public.tableau.com/app/profile/vastine.mwei/viz/Businessperfomance/Dashboard3?publish=yes)) <b><i>(Data Analysis)</b></i>
 <h2>👨‍💻 Programming Projects:</h2>
 - <b>Python</b>
 - <b>[(Recommeder System)](https://github.com/vastinmaggie/Recommender-System-)</b>
