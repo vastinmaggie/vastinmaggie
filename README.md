@@ -15,7 +15,7 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 <h2>🔭 Data Analysis Projects:</h2>
 - <b>Data Analyst (Spss,Stata,Excel,R,Python,Matlab,Tableau,PowerBI,Pspp)</b>
-  - (https://nest-frontend-v6.netlify.app/) <b><i>(Data Analysis)</b></i>
+  - ([https://nest-frontend-v6.netlify.app/](https://public.tableau.com/app/profile/vastine.mwei/viz/Businessperfomance/Dashboard3?publish=yes)) <b><i>(Data Analysis)</b></i>
 <h2>👨‍💻 Programming Projects:</h2>
 - <b>Python</b>
   - [(Recommeder System)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
